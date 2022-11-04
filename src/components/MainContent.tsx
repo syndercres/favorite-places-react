@@ -12,3 +12,4 @@ function MainContent(): JSX.Element {
         </main>
     )
     }
+export default MainContent;
